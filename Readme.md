@@ -1,2 +1,5 @@
-<a href="https://www.codewars.com/">Codewars</a>
-<img src="" alt="img/codewars.jpg" width="500" height="600">
+# Codewars
+Improve your development skills by training with your peers on code kata that continuously challenge and push your coding practice.
+
+
+![alt text](/img/codewars.jpg)
